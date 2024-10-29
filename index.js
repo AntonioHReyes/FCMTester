@@ -22,8 +22,8 @@ function sendPushNotification() {
       body: "Este es un mensaje de prueba de notificación push"
     },*/
     data: {
-      "type": "LOANS",
-      "payType": "",
+      "type": "SOME",
+      "payType": "SOME",
       "title": "Prueba de notificación por tony",
       "message": "Prueba de mensaje por tony"
     },
